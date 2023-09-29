@@ -1,0 +1,56 @@
+*{
+    background-color: lightpink;
+}
+.navigation a{
+    text-decoration: none;
+    color: brown;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navigation{
+    float: right;
+    margin-right: 500px;
+    margin-top: 30px;
+}
+.navigation a:hover{
+    background-color: turquoise;
+    color: black;
+}
+.header{
+    margin-top: 1%;
+    margin-right: 50%;
+     float: right;
+}
+.aboutme{
+    margin-top: 6em;
+    float: left;
+}    
+.skills{
+    margin: 10px;
+    margin-top: 30px;
+    float: left;
+   margin-right:100em;
+   margin-bottom: 5px;
+}
+#logg{
+    margin-left: 1150px;
+    
+}
+/* #dance{
+    margin-left: 1150px;
+} */
+.education{
+    float: left;
+    padding: 5px;
+    margin: 3px;
+}
+.contact{
+    margin-top: 20px;
+   float: left;
+    margin-right: 90em;
+   padding: 70px;
+   
+}
+
