@@ -4,10 +4,12 @@
 .navigation a{
     text-decoration: none;
     color: brown;
-    border: 1px solid white;
-    margin: 5px;
+     margin: 5px;
     padding: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     border-right: 1px solid white;
+    border-left: 1px solid white;
+    font-size: larger;
 }
 .navigation{
     float: right;
@@ -15,12 +17,12 @@
     margin-top: 30px;
 }
 .navigation a:hover{
-    background-color: turquoise;
+    background-color: White;
     color: black;
 }
 .header{
-    margin-top: 1%;
-    margin-right: 50%;
+    margin-top: 2%;
+    margin-right: 57%;
      float: right;
 }
 .aboutme{
@@ -35,22 +37,29 @@
    margin-bottom: 5px;
 }
 #logg{
-    margin-left: 1150px;
+    margin-left: 50px;
     
 }
-/* #dance{
-    margin-left: 1150px;
-} */
+
 .education{
     float: left;
     padding: 5px;
     margin: 3px;
 }
 .contact{
-    margin-top: 20px;
+    margin-top: 10px;
    float: left;
     margin-right: 90em;
    padding: 70px;
    
+}
+experience{
+    
+     margin-top: 54em;
+
+}
+.footer{
+    float: right;
+    margin-right: 70em;
 }
 
