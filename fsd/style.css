@@ -53,7 +53,7 @@
    padding: 70px;
    
 }
-experience{
+.experience{
     
      margin-top: 54em;
 
@@ -61,5 +61,10 @@ experience{
 .footer{
     float: right;
     margin-right: 70em;
+}
+.icons{
+    float: left;
+   margin-right: 18em;
+   font-size: xx-large;
 }
 
